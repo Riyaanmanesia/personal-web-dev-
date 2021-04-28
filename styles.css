@@ -37,6 +37,7 @@ h3{
     background-color:lavenderblush;
     position: relative;
     padding-top:100px;
+    width:100%;
 
 }
 .pro{
@@ -127,6 +128,7 @@ h2{
 .bottom-container{
     background-color: #66BFBF;
     padding:25px 0 20px;
+    width:100%;
 }
 hr{
     border: dotted #EAF6F6 6px;
